@@ -1,0 +1,15 @@
+{
+  "name": "egg-vue-router",
+  "version": "1.0.0",
+  "description": "use vue-router to work on server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue-router",
+    "egg"
+  ],
+  "author": "Weiqing Ji",
+  "license": "MIT"
+}
